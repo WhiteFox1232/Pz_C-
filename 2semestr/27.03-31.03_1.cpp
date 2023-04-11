@@ -2,6 +2,7 @@
 #include <string>
 #include <unordered_map>
 
+using namespace std;
 int main() {
     string input_values;
     getline(cin, input_values);
